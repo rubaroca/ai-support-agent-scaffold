@@ -1,0 +1,9 @@
+{
+  "project_name": "My Project",
+  "org": "My Organization",
+  "doc_lang": "en",
+  "source_domain": "docs.myorg.example",
+  "example_doc": "docs/EXAMPLE.md",
+  "boilerplate_suffix": "",
+  "date_label": "Last updated"
+}
